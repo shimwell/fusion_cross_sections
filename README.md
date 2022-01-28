@@ -1,4 +1,3 @@
-# fusion_cross_sections
+A plot of fusion cross section reactions
 
-
-This still uses old style endf files from, once openmc can read proton data the conversion to h5 can start
+Based on a [scipy blog post](https://scipython.com/blog/nuclear-fusion-cross-sections/)
